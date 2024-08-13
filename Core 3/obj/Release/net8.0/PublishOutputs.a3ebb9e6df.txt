@@ -1,0 +1,24 @@
+C:\Users\sanch\source\repos\Core 3\Core 3\obj\Release\net8.0\PubTmp\Out\Core 3.exe
+C:\Users\sanch\source\repos\Core 3\Core 3\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\sanch\source\repos\Core 3\Core 3\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\sanch\source\repos\Core 3\Core 3\obj\Release\net8.0\PubTmp\Out\Core 3.dll
+C:\Users\sanch\source\repos\Core 3\Core 3\obj\Release\net8.0\PubTmp\Out\Core 3.deps.json
+C:\Users\sanch\source\repos\Core 3\Core 3\obj\Release\net8.0\PubTmp\Out\Core 3.runtimeconfig.json
+C:\Users\sanch\source\repos\Core 3\Core 3\obj\Release\net8.0\PubTmp\Out\Core 3.pdb
+C:\Users\sanch\source\repos\Core 3\Core 3\obj\Release\net8.0\PubTmp\Out\AWSSDK.Core.dll
+C:\Users\sanch\source\repos\Core 3\Core 3\obj\Release\net8.0\PubTmp\Out\AWSSDK.SecurityToken.dll
+C:\Users\sanch\source\repos\Core 3\Core 3\obj\Release\net8.0\PubTmp\Out\DnsClient.dll
+C:\Users\sanch\source\repos\Core 3\Core 3\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\sanch\source\repos\Core 3\Core 3\obj\Release\net8.0\PubTmp\Out\MongoDB.Bson.dll
+C:\Users\sanch\source\repos\Core 3\Core 3\obj\Release\net8.0\PubTmp\Out\MongoDB.Driver.dll
+C:\Users\sanch\source\repos\Core 3\Core 3\obj\Release\net8.0\PubTmp\Out\MongoDB.Driver.Core.dll
+C:\Users\sanch\source\repos\Core 3\Core 3\obj\Release\net8.0\PubTmp\Out\MongoDB.Libmongocrypt.dll
+C:\Users\sanch\source\repos\Core 3\Core 3\obj\Release\net8.0\PubTmp\Out\SharpCompress.dll
+C:\Users\sanch\source\repos\Core 3\Core 3\obj\Release\net8.0\PubTmp\Out\Snappier.dll
+C:\Users\sanch\source\repos\Core 3\Core 3\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sanch\source\repos\Core 3\Core 3\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sanch\source\repos\Core 3\Core 3\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sanch\source\repos\Core 3\Core 3\obj\Release\net8.0\PubTmp\Out\ZstdSharp.dll
+C:\Users\sanch\source\repos\Core 3\Core 3\obj\Release\net8.0\PubTmp\Out\runtimes\linux\native\libmongocrypt.so
+C:\Users\sanch\source\repos\Core 3\Core 3\obj\Release\net8.0\PubTmp\Out\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\sanch\source\repos\Core 3\Core 3\obj\Release\net8.0\PubTmp\Out\runtimes\win\native\mongocrypt.dll
