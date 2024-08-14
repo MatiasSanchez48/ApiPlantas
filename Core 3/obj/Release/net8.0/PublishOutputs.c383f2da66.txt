@@ -1,0 +1,24 @@
+D:\Fuentes\Proyectos\C# .NET\ApiPlantas\Core 3\bin\Release\net8.0\publish\Core 3.exe
+D:\Fuentes\Proyectos\C# .NET\ApiPlantas\Core 3\bin\Release\net8.0\publish\appsettings.Development.json
+D:\Fuentes\Proyectos\C# .NET\ApiPlantas\Core 3\bin\Release\net8.0\publish\appsettings.json
+D:\Fuentes\Proyectos\C# .NET\ApiPlantas\Core 3\bin\Release\net8.0\publish\Core 3.dll
+D:\Fuentes\Proyectos\C# .NET\ApiPlantas\Core 3\bin\Release\net8.0\publish\Core 3.deps.json
+D:\Fuentes\Proyectos\C# .NET\ApiPlantas\Core 3\bin\Release\net8.0\publish\Core 3.runtimeconfig.json
+D:\Fuentes\Proyectos\C# .NET\ApiPlantas\Core 3\bin\Release\net8.0\publish\Core 3.pdb
+D:\Fuentes\Proyectos\C# .NET\ApiPlantas\Core 3\bin\Release\net8.0\publish\AWSSDK.Core.dll
+D:\Fuentes\Proyectos\C# .NET\ApiPlantas\Core 3\bin\Release\net8.0\publish\AWSSDK.SecurityToken.dll
+D:\Fuentes\Proyectos\C# .NET\ApiPlantas\Core 3\bin\Release\net8.0\publish\DnsClient.dll
+D:\Fuentes\Proyectos\C# .NET\ApiPlantas\Core 3\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+D:\Fuentes\Proyectos\C# .NET\ApiPlantas\Core 3\bin\Release\net8.0\publish\MongoDB.Bson.dll
+D:\Fuentes\Proyectos\C# .NET\ApiPlantas\Core 3\bin\Release\net8.0\publish\MongoDB.Driver.dll
+D:\Fuentes\Proyectos\C# .NET\ApiPlantas\Core 3\bin\Release\net8.0\publish\MongoDB.Driver.Core.dll
+D:\Fuentes\Proyectos\C# .NET\ApiPlantas\Core 3\bin\Release\net8.0\publish\MongoDB.Libmongocrypt.dll
+D:\Fuentes\Proyectos\C# .NET\ApiPlantas\Core 3\bin\Release\net8.0\publish\SharpCompress.dll
+D:\Fuentes\Proyectos\C# .NET\ApiPlantas\Core 3\bin\Release\net8.0\publish\Snappier.dll
+D:\Fuentes\Proyectos\C# .NET\ApiPlantas\Core 3\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Fuentes\Proyectos\C# .NET\ApiPlantas\Core 3\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Fuentes\Proyectos\C# .NET\ApiPlantas\Core 3\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Fuentes\Proyectos\C# .NET\ApiPlantas\Core 3\bin\Release\net8.0\publish\ZstdSharp.dll
+D:\Fuentes\Proyectos\C# .NET\ApiPlantas\Core 3\bin\Release\net8.0\publish\runtimes\linux\native\libmongocrypt.so
+D:\Fuentes\Proyectos\C# .NET\ApiPlantas\Core 3\bin\Release\net8.0\publish\runtimes\osx\native\libmongocrypt.dylib
+D:\Fuentes\Proyectos\C# .NET\ApiPlantas\Core 3\bin\Release\net8.0\publish\runtimes\win\native\mongocrypt.dll
